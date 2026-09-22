@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "The Alchemist",
+    "author": "Paulo Coelho",
+    "genre": "Fiction",
+    "price": 399,
+    "publisher": "HarperCollins"
+  },
+  {
+    "id": 2,
+    "name": "Atomic Habits",
+    "author": "James Clear",
+    "genre": "Self-Help",
+    "price": 499,
+    "publisher": "Penguin Random House"
+  },
+  {
+    "id": 3,
+    "name": "Rich Dad Poor Dad",
+    "author": "Robert Kiyosaki",
+    "genre": "Finance",
+    "price": 350,
+    "publisher": "Plata Publishing"
+  },
+  {
+    "id": 4,
+    "name": "Harry Potter and the Philosopher's Stone",
+    "author": "J.K. Rowling",
+    "genre": "Fantasy",
+    "price": 599,
+    "publisher": "Bloomsbury"
+  },
+  {
+    "id": 5,
+    "name": "The Psychology of Money",
+    "author": "Morgan Housel",
+    "genre": "Finance",
+    "price": 450,
+    "publisher": "Harriman House"
+  },
+  {
+    "id": 6,
+    "name": "Ikigai",
+    "author": "Héctor García",
+    "genre": "Self-Help",
+    "price": 299,
+    "publisher": "Penguin Books"
+  },
+  {
+    "id": 7,
+    "name": "1984",
+    "author": "George Orwell",
+    "genre": "Dystopian",
+    "price": 299,
+    "publisher": "Penguin Classics"
+  },
+  {
+    "id": 8,
+    "name": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "genre": "Classic",
+    "price": 249,
+    "publisher": "Scribner"
+  },
+  {
+    "id": 9,
+    "name": "Clean Code",
+    "author": "Robert C. Martin",
+    "genre": "Programming",
+    "price": 899,
+    "publisher": "Prentice Hall"
+  },
+  {
+    "id": 10,
+    "name": "Introduction to Algorithms",
+    "author": "Thomas H. Cormen",
+    "genre": "Computer Science",
+    "price": 1299,
+    "publisher": "MIT Press"
+  },
+  {
+    "id": 11,
+    "name": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "price": 450,
+    "publisher": "HarperCollins"
+  },
+  {
+    "id": 12,
+    "name": "Think and Grow Rich",
+    "author": "Napoleon Hill",
+    "genre": "Self-Help",
+    "price": 299,
+    "publisher": "Fingerprint Publishing"
+  }
+]

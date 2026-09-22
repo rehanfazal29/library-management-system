@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Rahul Sharma",
+    "email": "rahul.sharma@gmail.com",
+    "phone": "9876543210",
+    "membershipType": "Student"
+  },
+  {
+    "id": 2,
+    "name": "Aman Khan",
+    "email": "aman.khan@gmail.com",
+    "phone": "9876543211",
+    "membershipType": "Student"
+  },
+  {
+    "id": 3,
+    "name": "Priya Singh",
+    "email": "priya.singh@gmail.com",
+    "phone": "9876543212",
+    "membershipType": "Student"
+  },
+  {
+    "id": 4,
+    "name": "Arjun Verma",
+    "email": "arjun.verma@gmail.com",
+    "phone": "9876543213",
+    "membershipType": "Faculty"
+  },
+  {
+    "id": 5,
+    "name": "Sneha Gupta",
+    "email": "sneha.gupta@gmail.com",
+    "phone": "9876543214",
+    "membershipType": "Student"
+  },
+  {
+    "id": 6,
+    "name": "Mohammed Sameer",
+    "email": "sameer.mohammed@gmail.com",
+    "phone": "9876543215",
+    "membershipType": "Student"
+  },
+  {
+    "id": 7,
+    "name": "Neha Patel",
+    "email": "neha.patel@gmail.com",
+    "phone": "9876543216",
+    "membershipType": "Faculty"
+  },
+  {
+    "id": 8,
+    "name": "Rohan Mehta",
+    "email": "rohan.mehta@gmail.com",
+    "phone": "9876543217",
+    "membershipType": "Student"
+  },
+  {
+    "id": 9,
+    "name": "Aisha Ahmed",
+    "email": "aisha.ahmed@gmail.com",
+    "phone": "9876543218",
+    "membershipType": "Student"
+  },
+  {
+    "id": 10,
+    "name": "Vikash Kumar",
+    "email": "vikash.kumar@gmail.com",
+    "phone": "9876543219",
+    "membershipType": "Student"
+  }
+]
